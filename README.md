@@ -1,5 +1,5 @@
 # tcp-server
 
-dont read this
+SERVER cpde
 
 dotnet 7.0 required
